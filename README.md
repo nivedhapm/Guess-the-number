@@ -1,5 +1,5 @@
 
-# Guess the Number
+# Project: Guess the Number
 
 ## Description
 "Guess the Number" is a simple and fun Python-based game where the computer randomly selects a number, and the player has to guess it within a limited number of attempts. The game provides helpful hints, telling the player if their guess is too high or too low, and tracks how many attempts the player has made.
